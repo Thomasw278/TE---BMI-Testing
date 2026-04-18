@@ -9,8 +9,10 @@ Repository Tugas TE - UKDW
 71230976 - Galih Pramana Chandra Prasetya
 71231061 - Syendhi Reswara S.
 
+```
 
 ### 📁 Struktur Folder
+```bash
 
 bmi
 ├── src
@@ -21,3 +23,4 @@ bmi
 │       └── AppTest.java         # Test case (EP, BVA, Exception, Assumption)
 ├── target/                      # Hasil kompilasi (Generated otomatis)
 └── pom.xml                      # Konfigurasi dependensi Maven (JUnit 5)
+```
